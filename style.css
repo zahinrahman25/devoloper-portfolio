@@ -18,3 +18,8 @@ color: black;
 font-weight: 400;}
 .bg-img{background-image: url(photo/top-banner.png);
 background-repeat: no-repeat;}
+.dream-big{
+    background-image: url(photo/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
